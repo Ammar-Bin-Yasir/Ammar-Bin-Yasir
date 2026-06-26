@@ -51,7 +51,3 @@ A Connect 4 game with an AI opponent powered by minimax and alpha-beta pruning â
 A full-stack Flask web app for tracking anime watchlists, with a content-based recommendation engine built on TF-IDF and cosine similarity â€” plus auth, search, filtering, and a real SQLite-backed catalog of ~20,000 titles.
 
 ---
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ammar-Bin-Yasir&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" />
-</p>
